@@ -134,7 +134,8 @@ a:visited {
 }
 
 #emily-welsch-card {
- background-image: url("https://imgur.com/a/DnQGlsb");
+ /* background-image: url("https://imgur.com/a/DnQGlsb"); */
+ background-image: <blockquote class="imgur-embed-pub" lang="en" data-id="a/DnQGlsb"><a href="//imgur.com/DnQGlsb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>;
 }
 
 #emily-welsch-cover {
