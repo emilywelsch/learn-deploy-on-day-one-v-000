@@ -134,11 +134,11 @@ a:visited {
 }
 
 #emily-welsch-card {
-  background-image: url(https://avatars.githubusercontent.com/u/35111598);
+  background-image: url("https://avatars.githubusercontent.com/u/35111598");
 }
 
 #emily-welsch-cover {
- background-image: url(https://imgur.com/a/YEqZa7V);
+ background-image: url("https://imgur.com/a/YEqZa7V");
  /*background-image: url("https://imgur.com/YH7TvRR");*/
 
  /*background-image: <blockquote class="imgur-embed-pub" lang="en" data-id="a/YEqZa7V"><a href="//imgur.com/YEqZa7V"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>;*/
